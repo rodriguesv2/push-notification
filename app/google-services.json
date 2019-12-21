@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "981443570658",
+    "firebase_url": "https://push-notification-d9c56.firebaseio.com",
+    "project_id": "push-notification-d9c56",
+    "storage_bucket": "push-notification-d9c56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981443570658:android:b16ba63be216ab81cf27bb",
+        "android_client_info": {
+          "package_name": "br.com.rubensrodrigues.push_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981443570658-s4pseib5tf9aerkf8v73m33r243on771.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.rubensrodrigues.push_notification",
+            "certificate_hash": "560ab03bfc694577b807da24fec4329c9c4eea1b"
+          }
+        },
+        {
+          "client_id": "981443570658-hqc2a3ii78kkb0bg41u7r4ie90m36pv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj7GD-fH7n-pWj4MOZnfDk-vEOv2oIV8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981443570658-hqc2a3ii78kkb0bg41u7r4ie90m36pv7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
